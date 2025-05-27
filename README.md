@@ -38,8 +38,7 @@ While this screen recorder provides essential recording functionality, there are
 
 ```bash
 # Clone the repository
-git clone [https://github.com/yourusername/screen-recorder.git](https://github.com/NandiniBure/record-screen.git)
-cd screen-recorder
+git clone https://github.com/NandiniBure/record-screen.git
 
 # Install dependencies
 npm install
